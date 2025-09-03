@@ -59,6 +59,11 @@ My name is Rafał Brauner and I'm a PHP programmer. I'm from Poland, living in C
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rbrauner&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-
-![](https://github-readme-stats.vercel.app/api?username=rbrauner&include_all_commits=true&count_private=true&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrauner&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    </div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=rbrauner&include_all_commits=true&count_private=true&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    </div>
+</div>
